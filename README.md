@@ -1,9 +1,12 @@
 # Validation rules for `Gift Card Form`
 The gift card purchase form implements **client-side validation** using vanilla JavaScript to ensure data accuracy and improve user experience.
 
-Check the `Gift Card Form` on this web site: <a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's Massage</i></strong></a>
+Check the `Gift Card Form` on this web site:<br>
+<a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's Massage</i></strong></a>
 
-Go to <a href="https://www.linkedin.com/feed/update/urn:li:activity:7331971879450140673/" target="_blank" rel="noopener noreferrer"><strong><i>The article</i></strong></a>
+Go to the article:<br>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7331971879450140673/" target="_blank" rel="noopener noreferrer"><strong><i>Digital Gift Card, UX e Sicurezza: una nuova esperienza utente!
+</i></strong></a>
 
 <!-- 
 Problema:
