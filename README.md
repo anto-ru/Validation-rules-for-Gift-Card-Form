@@ -1,9 +1,7 @@
 # Validation rules for `Gift Card Form`
 The gift card purchase form implements **client-side validation** using vanilla JavaScript to ensure data accuracy and improve user experience.
 
-last update 
-
-...check the `Gift Card Form` here: *https://www.rekasmassage.nl*
+...check the `Gift Card Form` here: <a href="https://www.rekasmassage.nl" target="_blanck"><strong>https://www.rekasmassage.nl</strong></a>
 
 📞 Field `#phone_number` – User phone number
 - **Valid input**: digits only (`0–9`)
