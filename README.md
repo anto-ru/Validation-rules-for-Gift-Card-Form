@@ -1,7 +1,13 @@
 # Validation rules for `Gift Card Form`
 The gift card purchase form implements **client-side validation** using vanilla JavaScript to ensure data accuracy and improve user experience.
 
-...check the `Gift Card Form` on this web site: <a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's massage</i></strong></a>
+...check the `Gift Card Form` on this web site: <a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's Massage</i></strong></a>
+<!-- 
+Problema:
+GitHub rimuove o ignora l'attributo target="_blank" nei file .md, anche se uso un tag HTML come <a> nel Markdown. 
+Questo accade perché GitHub utilizza un parser Markdown sicuro (come cmark-gfm) 
+che filtra alcuni attributi ritenuti potenzialmente rischiosi.
+-->
 
 📞 Field `#phone_number` – User phone number
 - **Valid input**: digits only (`0–9`)
