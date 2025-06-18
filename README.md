@@ -1,7 +1,10 @@
 # Validation rules for `Gift Card Form`
 The gift card purchase form implements **client-side validation** using vanilla JavaScript to ensure data accuracy and improve user experience.
 
-...check the `Gift Card Form` on this web site: <a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's Massage</i></strong></a>
+Check the `Gift Card Form` on this web site: <a href="https://www.rekasmassage.nl" target="_blank" rel="noopener noreferrer"><strong><i>Reka's Massage</i></strong></a>
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7331971879450140673/" target="_blank" rel="noopener noreferrer"><strong><i>The article</i></strong></a>
+
 <!-- 
 Problema:
 GitHub rimuove o ignora l'attributo target="_blank" nei file .md, anche se uso un tag HTML come <a> nel Markdown. 
