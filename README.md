@@ -15,7 +15,7 @@ Questo accade perché GitHub utilizza un parser Markdown sicuro (come cmark-gfm)
 che filtra alcuni attributi ritenuti potenzialmente rischiosi.
 -->
 
-<br><br>
+<br>
 
 <h2>The features</h2>
 
