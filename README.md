@@ -14,6 +14,8 @@ che filtra alcuni attributi ritenuti potenzialmente rischiosi.
 
 <br><br>
 
+<h2>The features</h2>
+
 📞 Field `#phone_number` – User phone number
 - **Valid input**: digits only (`0–9`)
 - **Real-time validation**: any non-numeric character is dynamically removed (`\D`).
